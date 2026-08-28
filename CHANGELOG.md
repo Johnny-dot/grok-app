@@ -17,11 +17,13 @@ See `docs/llm-wiki/release.md`.
 - Windows wallpaper frost reaches the sidebar and empty chat. WebView2 skipped container blur.
 - Fork from a middle turn no longer brings back later parent messages.
 - Rapid follow-up messages no longer lose the next reply.
+- Bottom overscroll no longer rebounds above hidden chat content.
 
 **中文 · 修复**
 - 修复 Windows 壁纸透过侧栏和空会话。WebView2 会跳过容器模糊。
 - 修复从中间分叉时后面的父会话消息又回来。
 - 修复连续快速发送时下一条回复丢失。
+- 修复底部超滚回弹后仍有聊天内容被遮挡。
 
 ## [0.2.27] - 2026-08-27
 
